@@ -2,22 +2,21 @@
 <div class="otp" id="no-index">
 	<h3>On This Page</h3>
 	<ul>
-    <li><a href="#products-overview_introduction">Introduction</a></li>
-	<li><a href="#products-overview_products">Products</a></li>
-    <li><a href="#products-overview_pricing-precision">Pricing Precision </a></li>
-    <li><a href="#products-overview_product-images">Product Images</a></li>
-    <li><a href="#products-overview_product-videos">Product Videos</a></li>
-    <li><a href="#products-overview_custom_fields">Custom Fields</a></li>
-    <li><a href="#products-overview_bulk-pricing-rules">Bulk Pricing Rules</a></li>
-     <li><a href="#products-overview_metafields">Product Metafields</a></li>
-     <li><a href="#products-overview_reviews">Product Reviews</a></li>
-     <li><a href="#products-overview_brands">Brands</a></li>
-     <li><a href="#products-overview_variant-options">Variant Options</a></li>
-     <li><a href="#products-overview_variants">Variants</a></li>
-     <li><a href="#products-overview_modifier-options">Modifier Options</a></li>
-    <li><a href="#products-overview_complex-rules">Complex Rules</a></li>
-     <li><a href="#products-overview_categories">Categories</a></li>
-    
+        <li><a href="#products-overview_introduction">Introduction</a></li>
+        <li><a href="#products-overview_products">Products</a></li>
+        <li><a href="#products-overview_pricing-precision">Pricing Precision </a></li>
+        <li><a href="#products-overview_product-images">Product Images</a></li>
+        <li><a href="#products-overview_product-videos">Product Videos</a></li>
+        <li><a href="#products-overview_custom_fields">Custom Fields</a></li>
+        <li><a href="#products-overview_bulk-pricing-rules">Bulk Pricing Rules</a></li>
+        <li><a href="#products-overview_metafields">Product Metafields</a></li>
+        <li><a href="#products-overview_reviews">Product Reviews</a></li>
+        <li><a href="#products-overview_brands">Brands</a></li>
+        <li><a href="#products-overview_variant-options">Variant Options</a></li>
+        <li><a href="#products-overview_variants">Variants</a></li>
+        <li><a href="#products-overview_modifier-options">Modifier Options</a></li>
+        <li><a href="#products-overview_complex-rules">Complex Rules</a></li>
+        <li><a href="#products-overview_categories">Categories</a></li>
 	</ul>
 </div>
 
@@ -960,4 +959,3 @@ lineNumbers: true
 
 ### Related Endpoints
 * [Catalog API](/api-reference/catalog/catalog-api)
-
